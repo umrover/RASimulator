@@ -67,7 +67,7 @@ InputManager:
     snap: 0
     invert: 0
     type: 2
-    axis: 2
+    axis: 4
     joyNum: 0
   - serializedVersion: 3
     m_Name: Joint D
@@ -83,7 +83,7 @@ InputManager:
     snap: 0
     invert: 1
     type: 2
-    axis: 4
+    axis: 3
     joyNum: 0
   - serializedVersion: 3
     m_Name: Joint E
@@ -99,14 +99,14 @@ InputManager:
     snap: 0
     invert: 1
     type: 2
-    axis: 3
+    axis: 2
     joyNum: 0
   - serializedVersion: 3
     m_Name: Joint F Open
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: joystick button 4
+    positiveButton: joystick button 13
     altNegativeButton: 
     altPositiveButton: 
     gravity: 0
@@ -122,7 +122,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: joystick button 5
+    positiveButton: joystick button 14
     altNegativeButton: 
     altPositiveButton: 
     gravity: 0
